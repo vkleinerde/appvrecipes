@@ -49,3 +49,4 @@ App-V 5.x Recipes
 | Visual FoxPro 9.0 SP2  | http://rorymon.com/blog/?page_id=2066  |
 | VMware View Client 5.x with Broker History  | http://fbinotto.blogspot.com.au/2014/08/sequencing-vmware-view-client-5x-with.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+FelipeBinottosBlog+(Felipe+Binotto's+Blog)   |
 | VMware vSphere Client  | https://social.technet.microsoft.com/Forums/en-US/950a0f32-9a9f-4c3e-9c87-076512377813/sequencing-multiple-versions-of-the-vmware-vsphere-client-and-reducing-the-size-of-the-final?forum=prescriptiveguidance  |
+| xmind 7.5 update 1  | http://www.software-virtualisierung.de/app-v/app-v-5-xmind-7-5-update-1-recipe.html |
